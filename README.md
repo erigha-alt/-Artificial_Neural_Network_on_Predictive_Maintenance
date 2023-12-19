@@ -1,4 +1,4 @@
-# -Artificial_Neural_Network_on_Predictive_Maintenance
+# Artificial_Neural_Network_on_Predictive_Maintenance
 
 Predictive Maintenance with Artificial Neural Networks
 This repository contains code and data for a predictive maintenance project utilizing Artificial Neural Networks (ANNs) to predict machine failures based on process parameters. The code encompasses data preprocessing, model development, training, and evaluation using Python and libraries such as Pandas, Scikit-learn, and Keras.
